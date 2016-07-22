@@ -1,7 +1,7 @@
 ﻿
 namespace RAD_Project.DecisionChain
 {
-    using PRI_Project.Models.BD_Model;
+    using RAD_Project.Models.BD_Model;
 
     public class ChainAnalizeProductClick  : AnalizeChainEntry
     {

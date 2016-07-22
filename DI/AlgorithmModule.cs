@@ -3,7 +3,7 @@
 namespace RAD_Project.DI
 {
     using Ninject.Modules;
-    using PRI_Project.Models.BD_Model;
+    using RAD_Project.Models.BD_Model;
     using RAD_Project.ChartAlgorithm;
 
     public class AlgorithmModule : NinjectModule

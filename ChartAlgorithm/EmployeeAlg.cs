@@ -2,7 +2,7 @@
 namespace RAD_Project.ChartAlgorithm
 {
 
-    using PRI_Project.Models.BD_Model;
+    using RAD_Project.Models.BD_Model;
     using System.Collections.Generic;
     using System.Threading.Tasks;
     using System.Linq; 
