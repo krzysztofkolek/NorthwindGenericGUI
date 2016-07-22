@@ -59,16 +59,16 @@ The following class should be implemented.
         }
     }
 
-The base class ** abstract AbstractRepository < T >** should implement:
+The base class **abstract AbstractRepository < T >** should implement:
  - private void GetIDName()
  - public String GetIDPropertyName()
 
 
-** GenericGridView< T >** - based on the POCO model the GridView expands with new columns. (Screen 1)
+**GenericGridView< T >** - based on the POCO model the GridView expands with new columns. (Screen 1)
 
 **TextBoxFormFromModel< T >** - based on the POCO model the GridView expands with new components. (Screen 2)
 
-** GenericTeeChart< T >** - based on the algorithm (strategy) used, the chart will display different. (Screen 3, 4, 5)
+**GenericTeeChart< T >** - based on the algorithm (strategy) used, the chart will display different. (Screen 3, 4, 5)
 
 <i class="icon-ok"> End result
 ------------------------------
